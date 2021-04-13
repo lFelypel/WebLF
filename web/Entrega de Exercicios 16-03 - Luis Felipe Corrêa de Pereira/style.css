@@ -1,0 +1,38 @@
+/* Esse é o CSS de um site */
+
+
+body { 
+
+font-family: arial;
+/* Textos */
+
+}
+
+p.destaque { 
+	color: #88d435;
+	font-family: arial;
+	background-color: #efe380;
+	font-size: 40px;
+	text-align: right;
+	width: 500px;
+	padding: 50px;
+	margin: 50PX;
+
+	}
+
+	h1 {
+		color: #196870;
+		font-size: 100px;
+		text-align: center;
+
+	}
+
+	/* Estruturais */
+
+	header {
+	background-color: #a3edf5;
+	height: 300px;
+
+
+
+	}
